@@ -1,0 +1,31 @@
+Control Flows in Python Exercises:
+
+1. Exercise: Identify Positive, Negative, or Zero
+Problem: Write a Python program that prompts the user to enter a number and then checks whether the number is positive, negative, or zero using if-elif-else statements.
+
+2. Exercise: Check Even or Odd
+Problem: Using a ternary operation, write a Python program that takes an integer input and prints whether the number is "Even" or "Odd".
+
+3. Exercise: Indentation Error
+Problem: Write a Python program with an if condition but without proper indentation (on purpose). Run the code and observe the IndentationError. Then fix the indentation and run the program correctly.
+
+4. Exercise: Loop Through Numbers
+Problem: Write a Python program using a for loop to print all even numbers from 2 to 20.
+
+5. Exercise: Using While Loop to Count Down
+Problem: Write a Python program that uses a while loop to count down from 10 to 1. Display the number at each iteration.
+
+6. Exercise: Nested Ternary Operation
+Problem: Write a Python program that uses a nested ternary operation to check if a number is positive, negative, or zero. For example, the output should be "Positive", "Negative", or "Zero" based on the input number.
+
+7. Exercise: Create a Multiplication Table
+Problem: Write a Python program that uses a for loop to print the multiplication table of a given number (up to 10). The user should input the number.
+
+8. Exercise: While Loop with Break
+Problem: Write a Python program that uses a while loop to prompt the user to enter a number until they enter a number greater than 10. Once they enter a number greater than 10, use the break statement to exit the loop.
+
+9. Exercise: Skip Odd Numbers with Continue
+Problem: Write a Python program that uses a for loop to print all even numbers between 1 and 20. Use the continue statement to skip the odd numbers.
+
+10. Exercise: Summing Numbers Using a Loop
+Problem: Write a Python program that asks the user for a number n and then uses a for loop to sum all integers from 1 to n. The program should display the result of the sum.
