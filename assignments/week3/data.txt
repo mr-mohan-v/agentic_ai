@@ -1,0 +1,4 @@
+Python is great.
+File handling is essential.
+Enjoy coding!
+File handling makes life easier.

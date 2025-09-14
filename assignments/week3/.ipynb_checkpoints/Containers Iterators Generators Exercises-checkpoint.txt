@@ -1,0 +1,43 @@
+Containers, Iterators, Generators & Decorators Exercises: 
+
+
+Exercise 1: Working with Containers
+Task: Create a list containing numbers from 1 to 10. Then, create a dictionary where the keys are the numbers and the values are their squares.
+
+
+Exercise 2: Iterable and Iterator
+Task: Create a list of strings. Convert it into an iterator and use the iterator to print each element one by one using the next() function until it's exhausted.
+
+
+Exercise 3: Generator Function
+Task: Write a generator function that yields even numbers from 2 to 20. Use the generator to print each even number.
+
+
+Exercise 4: Decorator for Timing Function
+Task: Create a decorator that measures the time taken by a function to execute. Use it to time a function that sums the numbers from 1 to 100.
+
+
+Exercise 5: Container with Set
+Task: Create a set of numbers. Add a few numbers to it, remove one number, and print the resulting set.
+
+
+Exercise 6: Iterable and Iterator with Custom Class
+Task: Create a custom class that implements both the iterable and iterator protocols. The class should return the squares of numbers from 1 to 5.
+
+
+Exercise 7: Decorator to Add Logging
+Task: Create a decorator that logs the name of the function being called and its arguments. Apply it to a function that multiplies two numbers.
+
+
+Exercise 8: Using Generator to Create Fibonacci Series
+Task: Create a generator function that yields the Fibonacci series up to a given number n. Print the Fibonacci numbers.
+
+
+Exercise 9: Nested Decorators
+Task: Write two decorators: one that adds 5 to the result of a function and another that multiplies the result by 2. Apply both decorators to a function that returns the number 10.
+
+
+Exercise 10: Iterator to Reverse a List
+Task: Create an iterator that reverses a list. Use it to print the elements of a list in reverse order.
+
+
